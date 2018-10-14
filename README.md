@@ -1,0 +1,1 @@
+A deep learning project to accurately predict the skeletal maturity similar to that of an expert radiologist. Trying different methods such as CNN, ANN, Transfer learning etc.
